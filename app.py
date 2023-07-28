@@ -10,7 +10,6 @@ import streamlit as st
 - [GitHub Repository](https://github.com/Lapyl/Kaleido)
 - [Streamlit Dcumentation](https://docs.streamlit.io)
 - [Streamlit Forums](https://discuss.streamlit.io)
-Python code:
 """
 
 with st.echo(code_location='below'):
